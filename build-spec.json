@@ -1,0 +1,19 @@
+{
+  "repo": "FS-20-Shared-Airframes",
+  "version": "0.1.0",
+  "folder": "Fs20SharedAirframes",
+  "dll": "Fs20SharedAirframes.dll",
+  "id": "br.japensou.nuclearoption.sharedairframes",
+  "parent": true,
+  "managed": [
+    "mscorlib.dll",
+    "netstandard.dll",
+    "System.dll",
+    "System.Core.dll",
+    "Assembly-CSharp.dll",
+    "UnityEngine.dll",
+    "UnityEngine.CoreModule.dll",
+    "UnityEngine.UI.dll",
+    "Mirage.dll"
+  ]
+}
